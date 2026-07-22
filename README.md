@@ -1,5 +1,6 @@
 # Hello, I'm Kushal
-<a href="https://www.linkedin.com/in/kushal-poudel-b8a0a21a5/
+<a href="https://www.linkedin.com/in/kushal-poudel-b8a0a21a5"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+
 
 Aspiring Cyber Security Analyst (SOC)
 Bachelor Of Netwotrking
